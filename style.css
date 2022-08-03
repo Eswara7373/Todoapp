@@ -1,0 +1,95 @@
+.todo{
+    background-color: white;
+    width: 100%;
+    height: 50px;
+    box-shadow: 10px 10px 20px black;
+}
+.h{
+    margin-left: 100px;
+} 
+.h1{
+    color: blue;
+    }
+.link{
+    position: absolute;
+    right: 50px;
+}
+.fa-solid{
+    color: blue;
+
+}
+.flex-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+.flex-item{
+    width: 352px;
+    height: 360px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    margin: 20px;
+    box-shadow: 10px 10px 20px black;
+}
+b{
+    margin-left: 20px;
+    color: blue;
+}
+.chbox{
+    width: 40px;
+    height: 40px;
+    margin-left: 30px;
+    margin-right: 20px;
+}
+.f1{
+    text-decoration: line-through;
+    color: gray;
+}
+iframe{
+    height: 100vh;
+    width: 100vw;
+    filter: blur(10px);
+}
+.page2{
+    color: black;
+position:absolute;
+top: 184px;
+left: 433px;
+width: 500px;
+height: 250px;
+background:white 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 20px black;
+border: 1px solid white;
+border-radius: 10px;
+opacity: 1;
+
+}
+.page2L1{
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 100px;
+    margin-left: 350px;
+}
+.text{
+    height: 30px;
+    border-radius: 10px;
+    margin-left: 20px;
+    background-color: lightgrey;
+}
+.inline{
+    display: flex;
+    justify-content: space-around;
+    max-width: 400px;
+    margin: 0;
+
+}
